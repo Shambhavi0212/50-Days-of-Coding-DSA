@@ -1,4 +1,4 @@
-# 📢 🚀 Day4️⃣5️⃣/50: CodeChef Challenge
+# 📢 🚀 Day4️⃣6️⃣/50: CodeChef Challenge
 
 🧨 Problem Solved: Bomb the Base  
 📊 Problem Type: Arrays | Logic | Maximum Calculation | Iteration
@@ -32,4 +32,4 @@ Solved a simulation problem from CodeChef involving defense systems and bomb att
 ⏳ Time Complexity: O(N) per test case  
 📦 Space Complexity: O(N)
 
-🌱 #Day45 #CodeChef #DSA #Java #ArrayProblem #Simulation #LogicalThinking #ProblemSolving #50DaysOfCode #WomenInTech #LearningJourney 🚀
+🌱 #Day46 #CodeChef #DSA #Java #ArrayProblem #Simulation #LogicalThinking #ProblemSolving #50DaysOfCode #WomenInTech #LearningJourney 🚀
